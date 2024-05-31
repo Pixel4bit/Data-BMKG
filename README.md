@@ -1,2 +1,2 @@
-# Climate Forecasting using LSTM Neural Network Algorithm
-This will provide Machine Learning prediction of Climate Data using Long Short Term Memory (LSTM) Recurrent Neural Network
+# Storing all the dataset for Machine Learning and Deep Learning purposes
+This repository is only for storing dataset for Machine Learning and Deepl Learning Development
