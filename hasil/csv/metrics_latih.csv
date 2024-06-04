@@ -1,4 +1,4 @@
 ﻿Metrics,Nilai
-Mean Absolute Error,0.6629
-Mean Absolute Percentage Error,2.01
-Root Mean Squared Error,0.8883
+MAE,0.6629
+MAPE,2.01
+RMSE,0.8883
